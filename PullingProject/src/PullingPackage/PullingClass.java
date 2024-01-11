@@ -6,7 +6,7 @@ public class PullingClass {
 
     
     
-   System.out.println("hellow kumar");
+   System.out.println("hellow naveenkumar");
 
    System.out.println("hellow World");	
    
